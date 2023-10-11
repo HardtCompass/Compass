@@ -1,0 +1,7 @@
+ipyleaflet==0.14.0
+ipywidgets==7.6.5
+IPython==7.27.0
+pathlib==1.0.1
+base64==0.1.0
+geographiclib==1.52
+numpy==1.21.2
